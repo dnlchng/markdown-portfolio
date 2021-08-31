@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **Learning ML**
+2. *__Also learning Spark, Python and GitHub__*
